@@ -29,4 +29,4 @@ Copy code
 - **Output**: `Simple Interest = 1000 * 2 * 5 = 100`
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file.
